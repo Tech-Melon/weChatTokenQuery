@@ -1,3 +1,4 @@
+# 不再维护更新
 # weChatTokenQuery
 微信机器人,用于群聊成员查询token详情信息
 
